@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/google-vertex": "^0.0.12",
+    "@ai-sdk/openai": "^0.0.34",
+    "ai": "^3.2.16",
+    "google-auth-library": "^9.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  }
+}
